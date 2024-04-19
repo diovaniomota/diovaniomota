@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Diovanio Mota, a software developer and passionate about technology. I currently work as an entrepreneur and software developer at DARTSOFT SISTEMAS.
+I'm Diovanio Mota, software developer and passionate about technology. I currently work as an entrepreneur and software developer at DARTSOFT SISTEMAS.
 
-Since I ventured into this world of programming, each challenge I faced turned into an opportunity for growth and learning. Every line of code written was a journey, a discovery. Along the way, I was able to dive into different projects, each one bringing with it new learnings and unique experiences.
+Since I ventured into this world of programming, every challenge I faced turned into an opportunity for growth and learning. Every line of code written was a journey, a discovery. Along the way I was able to dive into different projects, each one bringing with it new learning and unique experiences.
 
-Exploring technologies like TypeScript, delving into the versatility of Flutter and appreciating the practicality of FlutterFlow have been true adventures that have shown me the importance of continuous evolution, regardless of where we are in our professional journey.
+Exploring technologies like NextJS, delving into the versatility of Flutter and appreciating the practicality of FlutterFlow have been true adventures that show me the importance of continuous evolution, regardless of where we are in our professional journey.
 
 And now, as an engaged member of the DARTSOFT SISTEMAS team, I am grateful to continue this journey of exploration and growth. Driven by my passion for technology, I am committed to contributing to the success of our team and the advancement of our projects, always seeking new challenges and learning opportunities.
 
