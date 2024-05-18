@@ -15,7 +15,7 @@ And now, as an engaged member of the DARTSOFT SISTEMAS team, I am grateful to co
   <img align="center" alt="Dio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Dio-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Dio-nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Dio-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/react-original.svg">
+  <img align="center" alt="Dio-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/reactjs-original.svg">
 
 ##
 
