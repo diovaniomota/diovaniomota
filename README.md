@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Diovanio Mota, software developer and passionate about technology. I currently work as an entrepreneur and software developer at DARTSOFT SISTEMAS.
+Sou Diovanio Mota, desenvolvedor de software e apaixonado por tecnologia. Atualmente, trabalho como empreendedor e desenvolvedor de software na DARTSOFT SISTEMAS.
 
-Since I ventured into this world of programming, every challenge I faced turned into an opportunity for growth and learning. Every line of code written was a journey, a discovery. Along the way I was able to dive into different projects, each one bringing with it new learning and unique experiences.
+Desde que me aventurei neste mundo da programação, cada desafio que enfrentei se transformou em uma oportunidade de crescimento e aprendizado. Cada linha de código escrita foi uma jornada, uma descoberta. Ao longo do caminho, pude mergulhar em diferentes projetos, cada um trazendo consigo novos aprendizados e experiências únicas.
 
-Exploring technologies like NextJS, delving into the versatility of Flutter and appreciating the practicality of FlutterFlow have been true adventures that show me the importance of continuous evolution, regardless of where we are in our professional journey.
+Explorar tecnologias como NextJS, mergulhar na versatilidade do Flutter e apreciar a praticidade do FlutterFlow têm sido verdadeiras aventuras que me mostram a importância da evolução contínua, independentemente de onde estamos em nossa jornada profissional.
 
-And now, as an engaged member of the DARTSOFT SISTEMAS team, I am grateful to continue this journey of exploration and growth. Driven by my passion for technology, I am committed to contributing to the success of our team and the advancement of our projects, always seeking new challenges and learning opportunities.
+E agora, como um membro engajado da equipe DARTSOFT SISTEMAS, sou grato por continuar essa jornada de exploração e crescimento. Movido pela minha paixão por tecnologia, estou comprometido em contribuir para o sucesso da nossa equipe e o avanço de nossos projetos, sempre buscando novos desafios e oportunidades de aprendizado.
 
 ##
 
