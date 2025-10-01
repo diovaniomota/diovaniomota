@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-Sou Diovanio Mota, desenvolvedor de software e apaixonado por tecnologia. Atualmente, trabalho como empreendedor e desenvolvedor de software na DARTSOFT SISTEMAS.
+Sou desenvolvedor especializado em Flutter e FlutterFlow, criando soluções digitais que combinam robustez, eficiência e escalabilidade. Meu trabalho é focado em transformar ideias em produtos digitais que geram impacto real para negócios.
 
-Desde que me aventurei neste mundo da programação, cada desafio que enfrentei se transformou em uma oportunidade de crescimento e aprendizado. Cada linha de código escrita foi uma jornada, uma descoberta. Ao longo do caminho, pude mergulhar em diferentes projetos, cada um trazendo consigo novos aprendizados e experiências únicas.
+Prezo por qualidade e boas práticas, buscando continuamente evoluir como profissional e adotar o que há de mais atual em tecnologia. Gosto de colaborar em projetos desafiadores, unindo visão estratégica e atenção aos detalhes em cada etapa — do conceito à entrega.
 
-Explorar tecnologias como NextJS, mergulhar na versatilidade do Flutter e apreciar a praticidade do FlutterFlow têm sido verdadeiras aventuras que me mostram a importância da evolução contínua, independentemente de onde estamos em nossa jornada profissional.
-
-E agora, como um membro engajado da equipe DARTSOFT SISTEMAS, sou grato por continuar essa jornada de exploração e crescimento. Movido pela minha paixão por tecnologia, estou comprometido em contribuir para o sucesso da nossa equipe e o avanço de nossos projetos, sempre buscando novos desafios e oportunidades de aprendizado.
+Hoje, meu foco está em construir produtos e sistemas que tragam resultados, explorando tecnologia como um meio para inovação e crescimento.
 
 ##
 
